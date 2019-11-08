@@ -563,7 +563,7 @@ p {
     height:20px;
 }
 .client-nav li a:hover {
-    background:#181A1C;
+    background:#008080;
 }
 .testimonial p {
     color:#181A1C;
@@ -825,7 +825,7 @@ p {
     right:20px;
 	border:1px solid #fff;
     display:none;
-    background: #FECE1A;
+    background: #008080;
 }
 .scrollup > a {
     position:relative;
