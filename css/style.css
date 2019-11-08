@@ -54,7 +54,7 @@ p {
     color: #fff;
 }
 .navbar {
-    background: #181A1C;
+    background: #2F4F4F;
     margin-bottom:0;
     min-height:70px;
 }
@@ -65,7 +65,9 @@ p {
     padding-top:0;
 }
 .navbar-inner {
-    background: #181A1C;
+    background: #2F4F4F;
+
+
     border-radius:0;
     filter: none;
     border: none;
@@ -82,7 +84,7 @@ p {
     margin:10px 3px;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
-    border: 1px solid #181A1C;
+    border: 1px solid #2F4F4F;
     box-shadow: none;
     font-size:15px;
     text-shadow: none;
@@ -90,9 +92,9 @@ p {
     transition: border-color 1s ease;
 }
 .navbar .nav > li:hover> a, .navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus {
-    border: 1px solid #FECE1A;
+    border: 1px solid #5F9EA0;
     color: #fff;
-    background-color: #181A1C;
+    background-color: #2F4F4F;
     transition: border-color 1s ease;
 }
 .nav-pills {
@@ -176,7 +178,7 @@ p {
     text-align:center;
     width: 0;
     height: 0;
-    border-top: 30px solid #181A1C;
+    border-top: 30px solid #2F4F4F;
     border-left: 585px outset transparent;
     border-right: 585px outset transparent;
     position: relative;
