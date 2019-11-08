@@ -35,11 +35,11 @@
     line-height:20px;
 }
 a {
-    color:#181A1C;
+    color:#2f4f4f;
     text-decoration: none;
 }
 a:hover {
-    color: #FECE1A;
+    color: #2F4F4F;
     text-decoration:none;
 }
 h1, h2, h3, h4, h5, h6 {
@@ -108,10 +108,10 @@ p {
     margin-right:5px;
     padding-left:25px;
     padding-right:25px;
-    border: 1px solid #181A1C;
+    border: 1px solid #2f4f4f;
 }
 .nav-pills > li > a:hover, .nav-pills > .active > a, .nav-pills > .active > a:hover, .nav-pills > .active > a:focus {
-    background: #181A1C;
+    background: #2f4f4f;
     color: #fff;
 }
 .navbar .btn-navbar:hover, .navbar .btn-navbar {
@@ -216,17 +216,17 @@ p {
     line-height:auto;
 }
 .button:hover, .button:active{
-    background-color:#008080;
+    background-color:#2f4f4f;
     color:#fff;
 }
 .button-sp, .button-sp:visited, .button-sp:focus {
     border:none;
-    background-color:#33cc99;
-    color:#181A1C;
+    background-color:#008080;
+    color:#2f4f4f;
 }
 .button-sp:hover, .button-sp:active {
-    background-color:#181A1C;
-    color:#33cc99;
+    background-color:#2f4f4f;
+    color:#fff;
 }
 .button-ps, .button-ps:visited, .button-ps:focus {
     border:none;
@@ -285,7 +285,7 @@ p {
     z-index:4;
 }
 .thumbnail h3 {
-    color: #FECE1A;
+    color: #00ced1;
     margin-top:10px;
     font-size:20px;
 }
@@ -388,7 +388,7 @@ p {
 .third-section {
     padding-bottom: 70px;
     background: #181A1C url(../images/brand-bg.png) no-repeat center;
-    border-top:6px solid #33cc99;
+    border-top:6px solid #2f4f4f;
 }
 .third-section .container {
     padding-top:20px;
@@ -396,7 +396,7 @@ p {
 }
 .third-section .title {
     border-bottom: 1px solid #A1AAB7;
-    color: #33cc99;
+    color: #00ced1;
 }
 .sub-section {
     margin-top:30px;
@@ -493,7 +493,7 @@ p {
     color:#fff;
 }
 .team .thumbnail .mask {
-    background: #FECE1A;
+    background: #f5f5f5;
 }
 .team .thumbnail .mask h2 {
     margin-top:20%;
@@ -557,7 +557,7 @@ p {
 .client-nav li a {
     display:inherit;
     padding:5px;
-    background:#FECE1A;
+    background:#00ced1;
     border-radius:3px;
     width:20px;
     height:20px;
@@ -567,14 +567,14 @@ p {
 }
 .testimonial p {
     color:#181A1C;
-    background:#33cc99;
+    background:#fffff0;
     padding:15px;
     margin:0;
 }
 .testimonial .arrow {
     margin-left:10px;
     width:0;
-    border-top:10px solid #33cc99;
+    border-top:10px solid #fffff0;
     border-left: 20px outset transparent;
     border-right: 20px outset transparent;
 }
@@ -681,8 +681,8 @@ p {
     margin: 0 0 0 20px;
 }
 .newsletter .button-sp:hover, .newsletter .button-sp:active {
-    background-color:#FFF;
-    color:#181A1C;
+    background-color:#008080;
+    color:#fff;
 }
 
 /*
