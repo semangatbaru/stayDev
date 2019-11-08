@@ -94,7 +94,7 @@ p {
 .navbar .nav > li:hover> a, .navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus {
     border: 1px solid #5F9EA0;
     color: #fff;
-    background-color: #2F4F4F;
+    background-color: #008080;
     transition: border-color 1s ease;
 }
 .nav-pills {
@@ -208,25 +208,25 @@ p {
 **********/
  .button,  .button:visited, .button:focus {
     display:inline-block;
-    border:1px solid #181A1C;
+    border:1px solid #008080;
     color:#181A1C;
-    background-color:transparent;
+    background-color:#008080;
     padding:15px 30px;
     font-size:17px;
     line-height:auto;
 }
 .button:hover, .button:active{
-    background-color:#181A1C;
+    background-color:#008080;
     color:#fff;
 }
 .button-sp, .button-sp:visited, .button-sp:focus {
     border:none;
-    background-color:#FECE1A;
+    background-color:#33cc99;
     color:#181A1C;
 }
 .button-sp:hover, .button-sp:active {
     background-color:#181A1C;
-    color:#FECE1A;
+    color:#33cc99;
 }
 .button-ps, .button-ps:visited, .button-ps:focus {
     border:none;
@@ -361,22 +361,22 @@ p {
     font-weight: lighter;
 }
 .primary-section {
-    background:#181A1C;
+    background:#2F4F4F;
 }
 .primary-section .triangle {
-    border-top: 40px solid #FECE1A;
+    border-top: 40px solid #66CCCC;
 }
 .primary-section .title {
     border-bottom: 1px solid #FFF;
 }
 .primary-section, .primary-section .title p, .primary-section h3 {
-    color: #FECE1A;
+    color: #48D1CC;
 }
 .primary-section h1 {
     color:#FFF;
 }
 .secondary-section {
-    background:#FECE1A;
+    background:#66CCCC;
 }
 .secondary-section .title {
     border-bottom: 1px solid #181A1C;
@@ -388,7 +388,7 @@ p {
 .third-section {
     padding-bottom: 70px;
     background: #181A1C url(../images/brand-bg.png) no-repeat center;
-    border-top:6px solid #FECE1A;
+    border-top:6px solid #33cc99;
 }
 .third-section .container {
     padding-top:20px;
@@ -396,7 +396,7 @@ p {
 }
 .third-section .title {
     border-bottom: 1px solid #A1AAB7;
-    color: #FECE1A;
+    color: #33cc99;
 }
 .sub-section {
     margin-top:30px;
@@ -534,7 +534,7 @@ p {
 .skills li .bar {
     height:40px;
     position:absolute;
-    background-color: #FECE1A;
+    background-color: #33CC99 ;
 }
 /*
 3.4 Clients
@@ -567,14 +567,14 @@ p {
 }
 .testimonial p {
     color:#181A1C;
-    background:#FECE1A;
+    background:#33cc99;
     padding:15px;
     margin:0;
 }
 .testimonial .arrow {
     margin-left:10px;
     width:0;
-    border-top:10px solid #FECE1A;
+    border-top:10px solid #33cc99;
     border-left: 20px outset transparent;
     border-right: 20px outset transparent;
 }
