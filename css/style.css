@@ -823,9 +823,7 @@ p {
     position:fixed;
     bottom:30px;
     right:20px;
-	border:1px solid #fff;
     display:none;
-    background: #008080;
 }
 .scrollup > a {
     position:relative;
