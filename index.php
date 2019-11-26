@@ -10,7 +10,7 @@
     <head>
         <meta charset=utf-8>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Pluton Theme by BraphBerry.com</title>
+        <title>CV. STAY DEV</title>
         <!-- Load Roboto font -->
         <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
         <!-- Load css styles -->
@@ -30,7 +30,7 @@
         <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114.png">
         <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/apple-touch-icon-72.png">
         <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57.png">
-        <link rel="shortcut icon" href="images/ico/favicon.ico">
+        <link rel="shortcut icon" href="">
     </head>
     
     <body>
@@ -38,7 +38,8 @@
             <div class="navbar-inner">
                 <div class="container">
                     <a href="#" class="brand">
-                        <img src="images/STAY.jpg" width="120" height="40" alt="Logo" />
+                        <img src="images/manslub.png" width="80" height="80"  />                      
+                        <font face="DaunPenh" color="white">CV. Staydev Jember</font> 
                         <!-- This is website logo -->
                     </a>
                     <!-- Navigation button, visible on small resolution -->
@@ -758,7 +759,7 @@
                 </div>
             </div>
         </div> -->
-        <div class="section third-section">
+        <div class="section third-section" id="clients">
             <div class="container centered">
                 <div class="sub-section">
                     <div class="title clearfix">
