@@ -10,7 +10,7 @@
     <head>
         <meta charset=utf-8>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>CV. STAY DEV</title>
+        <title>CV. STAYDEV</title>
         <!-- Load Roboto font -->
         <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
         <!-- Load css styles -->
@@ -30,7 +30,7 @@
         <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114.png">
         <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/apple-touch-icon-72.png">
         <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57.png">
-        <link rel="shortcut icon" href="">
+        <link rel="shortcut icon" href="images/stay.ico">
     </head>
     
     <body>
@@ -39,7 +39,7 @@
                 <div class="container">
                     <a href="#" class="brand">
                         <img src="images/manslub.png" width="80" height="80"  />                      
-                        <font face="DaunPenh" color="white">CV. Staydev Jember</font> 
+                        <font face="DaunPenh" color="white">CV. STAYDEV JEMBER</font> 
                         <!-- This is website logo -->
                     </a>
                     <!-- Navigation button, visible on small resolution -->
@@ -52,8 +52,8 @@
                             <li class="active"><a href="#home">Home</a></li>
                             <li><a href="#service">Services</a></li>
                             <li><a href="#portfolio">Portfolio</a></li>
-                            <li><a href="#about">About</a></li>
-                            <li><a href="#clients">Clients</a></li>                            
+                            <!-- <li><a href="#about">About</a></li>-->
+                            <li><a href="#partner">Partner</a></li>                             
                             <li><a href="#contact">Contact</a></li>
                         </ul>
                     </div>
@@ -162,7 +162,7 @@
             <div class="triangle"></div>
             <div class="container">
                 <div class=" title">
-                    <h1>Have You Seen our Works?</h1>
+                    <h1>Mau Lihat Pekerjaan Kami ?</h1>
                     <p>Berikut beberapa konsumen yang sudah bekerja sama dengan kami. "Lets Join Us"</p>
                 </div>
                 <ul class="nav nav-pills">
@@ -191,7 +191,7 @@
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>Webste for Some Client</h3>
+                                    <h3>Aplikasi Pemesanan</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
@@ -200,11 +200,11 @@
                                     <div>
                                         <span>Client</span>Konveksi Libra Nganjuk</div>
                                     <div>
-                                        <span>Date</span>29 Oktober 2019</div>
+                                        <span>Tanggal</span>29 Oktober 2019</div>
                                     <div>
-                                        <span>Spek  </span>HTML5,CodeIgniter,JQuery,Ajax</div>
+                                        <span>Kelebihan  </span>HTML5,CodeIgniter,JQuery,Ajax</div>
                                     <div>
-                                        <span>No Hp  </span></div>
+                                        <span>  </span></div>
                                    
                                 </div>
                                 <p>Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.</p>
@@ -212,7 +212,7 @@
                         </div>
                     </div>
                     <!-- End details for portfolio project 1 -->
-                    <!-- Start details for portfolio project 2 -->
+                    <!-- Start details for portfolio project 2
                     <div id="slidingDiv1" class="toggleDiv row-fluid single-project">
                         <div class="span6">
                             <img src="images/Portfolio02.png" alt="project 2">
@@ -239,7 +239,7 @@
                             </div>
                         </div>
                     </div>
-                    <!-- End details for portfolio project 2 -->
+                    End details for portfolio project 2 -->
                     <!-- Start details for portfolio project 3 -->
                     <div id="slidingDiv2" class="toggleDiv row-fluid single-project">
                         <div class="span6">
@@ -266,7 +266,7 @@
                                 <p>How far you go in life depends on your being tender with the young, compassionate with the aged, sympathetic with the striving and tolerant of the weak and strong. Because someday in your life you will have been all of these.</p>
                             </div>
                         </div>
-                    </div>
+                    </div> 
                     <!-- End details for portfolio project 3 -->
                     <!-- Start details for portfolio project 4 -->
                     <div id="slidingDiv3" class="toggleDiv row-fluid single-project">
@@ -276,20 +276,20 @@
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>Project for Some Client</h3>
+                                    <h3>Aplikasi Kasir dan Inventori</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Client</span>Some Client Name</div>
+                                        <span>Client</span>PT.Jatim Herbal Perkasa</div>
                                     <div>
-                                        <span>Date</span>July 2013</div>
+                                        <span>Tanggal</span>2019</div>
                                     <div>
-                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Kelebihan</span>HTML5, CSS3, JavaScript</div>
                                     <div>
-                                        <span>Link</span>http://examplecomp.com</div>
+                                        <span></span></div>
                                 </div>
                                 <p>Life's but a walking shadow, a poor player, that struts and frets his hour upon the stage, and then is heard no more; it is a tale told by an idiot, full of sound and fury, signifying nothing.</p>
                             </div>
@@ -355,25 +355,25 @@
                     <!-- Start details for portfolio project 7 -->
                     <div id="slidingDiv6" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="images/Portfolio07.png" alt="project 7">
+                            <img src="images/Portf07.png" alt="project 7">
                         </div>
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>Webste for Some Client</h3>
+                                    <h3>Aplikasi Kasir dan Inventori</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Client</span>Some Client Name</div>
+                                        <span>Client</span>Toko PrimaPS Sukowono,Jember</div>
                                     <div>
-                                        <span>Date</span>July 2013</div>
+                                        <span>Date</span> 2018</div>
                                     <div>
-                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Kelebihan</span>HTML5, CSS3, JavaScript</div>
                                     <div>
-                                        <span>Link</span>http://examplecomp.com</div>
+                                        <span></span></div>
                                 </div>
                                 <p>Always continue the climb. It is possible for you to do whatever you choose, if you first get to know who you are and are willing to work with a power that is greater than ourselves to do it.</p>
                             </div>
@@ -383,7 +383,7 @@
                     <!-- Start details for portfolio project 8 -->
                     <div id="slidingDiv7" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="images/Portfolio08.png" alt="project 8">
+                            <img src="images/android1.jpeg" alt="project 8">
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -533,18 +533,18 @@
                         </li>
                         <li class="span4 mix web">
                             <div class="thumbnail">
-                                <img src="images/Portfolio07.png" alt="project 7" />
+                                <img src="images/Portf07.png" alt="project 7" />
                                 <a href="#single-project" class="show_hide more" rel="#slidingDiv6">
                                     <i class="icon-plus"></i>
                                 </a>
-                                <h3>Thumbnail label</h3>
-                                <p>Thumbnail caption...</p>
+                                <h3>Aplikasi Kasir dan Inventori</h3>
+                                <p>Toko PrimaPs Sukowono,Jember</p>
                                 <div class="mask"></div>
                             </div>
                         </li>
                         <li class="span4 mix android">
                                 <div class="thumbnail">
-                                    <img src="images/Portfolio08.png" alt="project 8" />
+                                    <img src="images/jos.png" alt="project 8" />
                                     <a href="#single-project" class="show_hide more" rel="#slidingDiv7">
                                         <i class="icon-plus"></i>
                                     </a>
@@ -759,12 +759,12 @@
                 </div>
             </div>
         </div> -->
-        <div class="section third-section" id="clients">
+        <div class="section third-section" id="partner">
             <div class="container centered">
                 <div class="sub-section">
                     <div class="title clearfix">
                         <div class="pull-left">
-                            <h3>Our Clients</h3>
+                            <h3>Our Partners</h3>
                         </div>
                         <ul class="client-nav pull-right">
                             <li id="client-prev"></li>
@@ -858,7 +858,7 @@
         </div> -->
         <!-- Price section end --> 
         <!-- Newsletter section start -->
-        <div class="section third-section">
+        <!-- <div class="section third-section">
             <div class="container newsletter">
                 <div class="sub-section">
                     <div class="title clearfix">
@@ -882,7 +882,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Newsletter section end -->
         <!-- Contact section start -->
         <div id="contact" class="contact">
@@ -890,10 +890,10 @@
                 <div class="container">
                     <div class="title">
                         <h1>Contact Us</h1>
-                        <p>Duis mollis placerat quam, eget laoreet tellus tempor eu. Quisque dapibus in purus in dignissim.</p>
+                 
                     </div>
                 </div>
-                <div class="map-wrapper">
+                <!-- <div class="map-wrapper">
                     <div class="map-canvas" id="map-canvas">Loading map...</div>
                     <div class="container">
                         <div class="row-fluid">
@@ -902,10 +902,10 @@
                                 <div id="successSend" class="alert alert-success invisible">
                                     <strong>Well done!</strong>Your message has been sent.</div>
                                 <div id="errorSend" class="alert alert-error invisible">There was an error.</div>
-                                <form id="contact-form" action="php/mail.php">
+                                <form action="php/kirim.php" id="contact-form" action="php/mail.php">
                                     <div class="control-group">
                                         <div class="controls">
-                                            <input class="span12" type="text" id="name" name="name" placeholder="* Your name..." />
+                                            <input class="span12" type="text" id="nama" name="nama" placeholder="* Your name..." />
                                             <div class="error left-align" id="err-name">Please enter name.</div>
                                         </div>
                                     </div>
@@ -917,63 +917,27 @@
                                     </div>
                                     <div class="control-group">
                                         <div class="controls">
-                                            <textarea class="span12" name="comment" id="comment" placeholder="* Comments..."></textarea>
+                                            <textarea class="span12" name="pesan" id="pesan" placeholder="* Comments..."></textarea>
                                             <div class="error left-align" id="err-comment">Please enter your comment.</div>
                                         </div>
                                     </div>
                                     <div class="control-group">
                                         <div class="controls">
-                                            <button id="send-mail" class="message-btn">Send message</button>
+                                            <button type="submit" name="kirim" id="" class="message-btn">Send message</button>
                                         </div>
                                     </div>
                                 </form>
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <div class="container">
                     <div class="span9 center contact-info">
-                        <p>123 Fifth Avenue, 12th,Belgrade,SRB 11000</p>
+                        <p>Jl. Melati V Jember Kidul</p>
                         <p class="info-mail">staydevjember@gmail.com</p>
-                        <p>+11 234 567 890</p>
-                        <p>+11 286 543 850</p>
-                        <div class="title">
-                            <h3>We Are Social</h3>
-                        </div>
-                    </div>
-                    <div class="row-fluid centered">
-                        <ul class="social">
-                            <li>
-                                <a href="">
-                                    <span class="icon-facebook-circled"></span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="">
-                                    <span class="icon-twitter-circled"></span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="">
-                                    <span class="icon-linkedin-circled"></span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="">
-                                    <span class="icon-pinterest-circled"></span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="">
-                                    <span class="icon-dribbble-circled"></span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="">
-                                    <span class="icon-gplus-circled"></span>
-                                </a>
-                            </li>
-                        </ul>
+                        <p>082245630061 Yusuf</p>
+                        <p>082266508164 Anggi</p>
+                       
                     </div>
                 </div>
             </div>
@@ -981,7 +945,7 @@
         <!-- Contact section edn -->
         <!-- Footer section start -->
         <div class="footer">
-            <p>&copy; 2013 Theme by <a href="http://www.graphberry.com">GraphBerry</a>, <a href="http://goo.gl/NM84K2">Documentation</a></p>
+            <p>&copy; 2019 <a href="">Staydev</a></p>
         </div>
         <!-- Footer section end -->
         <!-- ScrollUp button start -->
