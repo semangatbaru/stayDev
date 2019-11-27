@@ -127,7 +127,7 @@
                     <div class="span4">
                         <div class="centered service">
                             <div class="circle-border zoom-in">
-                                <img class="img-circle" src="images/Service1.png" alt="service 1">
+                                <img class="img-circle" src="images/apk.png" alt="apk">
                             </div>
                             <h3>Modern Design Aplication</h3>
                             <p>Kami mengusung tema modern desain untuk pembuatan aplikasi <i>website, android dan dekstop</i>.</p>
@@ -137,9 +137,9 @@
                     <div class="span4">
                             <div class="centered service">
                                 <div class="circle-border zoom-in">
-                                    <img class="img-circle" src="images/Service2.png" alt="service 3">
+                                    <img class="img-circle" src="images/desaingrafis.png" alt="desaingrafis">
                                 </div>
-                                <h3>Secure network for data</h3>
+                                <h3>Desain Grafis</h3>
                                 <p>Kami menawarkan jasa desain grafis poster stiker dan banner.</p>
                             </div>
                         </div>
@@ -147,7 +147,7 @@
                     <div class="span4">
                         <div class="centered service">
                             <div class="circle-border zoom-in">
-                                <img class="img-circle" src="images/Service3.png" alt="service 3">
+                                <img class="img-circle" src="images/jrg.png" alt="jrg 3">
                             </div>
                             <h3>Secure network for data</h3>
                             <p>Kami mengamankan data konsumen dan membuat jaringan terintegrasi dalam satu server.</p>
@@ -207,64 +207,59 @@
                                         <span>  </span></div>
                                    
                                 </div>
-                                <p>Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.</p>
-                            </div>
+                                <p> Aplikasi Konveksi & Bordir Komputer Libra adalah Aplikasi pemesanan baju,kaos futsal,jaket dsb.  </div>
                         </div>
                     </div>
                     <!-- End details for portfolio project 1 -->
-                    <!-- Start details for portfolio project 2
+                    <!-- <--Start details for portfolio project 2--> -->
                     <div id="slidingDiv1" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="images/Portfolio02.png" alt="project 2">
+                            <img src="images/jaring.JPEG" alt="project 2">
                         </div>
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>Webste for Some Client</h3>
+                                    <h3>Networking</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
                                 </div>
                                 <div class="project-info">
-                                    <div>
+                                    <!-- <div>
                                         <span>Client</span>Some Client Name</div>
+                                    <div> -->
+                                        <span>Tanggal</span>July 2018</div>
                                     <div>
-                                        <span>Date</span>July 2013</div>
-                                    <div>
-                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
-                                    <div>
-                                        <span>Link</span>http://examplecomp.com</div>
-                                </div> 
-                                <p>Life is a song - sing it. Life is a game - play it. Life is a challenge - meet it. Life is a dream - realize it. Life is a sacrifice - offer it. Life is love - enjoy it.</p>
-                            </div>
+                                       
+                                </div>
+                                <p> Membantu anda dalam menyelesaikan masalah yang berhubungan dengan jaringan komputer anda</div>
                         </div>
                     </div>
-                    End details for portfolio project 2 -->
+                    <!-- End details for portfolio project 2 -->
                     <!-- Start details for portfolio project 3 -->
                     <div id="slidingDiv2" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="images/Portfolio03.png" alt="project 3">
+                            <img src="images/brosur2.png" alt="project 3">
                         </div>
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>Webste for Some Client</h3>
+                                    <h3>Pembuatan Baner</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Client</span>Some Client Name</div>
+                                        <span>Client</span>Mahasiswa Peternakan Polije</div>
                                     <div>
-                                        <span>Date</span>July 2013</div>
+                                        <span>Tanggal</span>November 2019</div>
                                     <div>
-                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Kelebihan</span>Corel</div>
                                     <div>
-                                        <span>Link</span>http://examplecomp.com</div>
+                                        </div>
                                 </div>
-                                <p>How far you go in life depends on your being tender with the young, compassionate with the aged, sympathetic with the striving and tolerant of the weak and strong. Because someday in your life you will have been all of these.</p>
-                            </div>
+                                <p> Membantu Mahasiswa Peternakan Polije dalam pembuatan baner untuk menyelesaikan tugasnya</div>
                         </div>
                     </div> 
                     <!-- End details for portfolio project 3 -->
@@ -291,13 +286,12 @@
                                     <div>
                                         <span></span></div>
                                 </div>
-                                <p>Life's but a walking shadow, a poor player, that struts and frets his hour upon the stage, and then is heard no more; it is a tale told by an idiot, full of sound and fury, signifying nothing.</p>
-                            </div>
+                                <p> Aplikasi Kasir dan Inventori untuk toko Jamu di PT. Herbal Jatim Perkasa Ngawi,Jatim</div>
                         </div>
                     </div>
                     <!-- End details for portfolio project 4 -->
                     <!-- Start details for portfolio project 5 -->
-                    <div id="slidingDiv4" class="toggleDiv row-fluid single-project">
+                    <!-- <div id="slidingDiv4" class="toggleDiv row-fluid single-project">
                         <div class="span6">
                             <img src="images/Portfolio05.png" alt="project 5">
                         </div>
@@ -322,12 +316,12 @@
                                 <p>We need to give each other the space to grow, to be ourselves, to exercise our diversity. We need to give each other space so that we may both give and receive such beautiful things as ideas, openness, dignity, joy, healing, and inclusion.</p>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- End details for portfolio project 5 -->
                     <!-- Start details for portfolio project 6 -->
                     <div id="slidingDiv5" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="images/Portfolio06.png" alt="project 6">
+                            <img src="images/bannerjd.png" alt="project 6">
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -339,16 +333,15 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Client</span>Some Client Name</div>
+                                        <span>Client</span>Ikamala</div>
                                     <div>
-                                        <span>Date</span>July 2013</div>
+                                        <span>Tanggal</span>November 2019</div>
                                     <div>
-                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Kelebihan</span>Corel</div>
                                     <div>
-                                        <span>Link</span>http://examplecomp.com</div>
+                                        </div>
                                 </div>
-                                <p>I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.</p>
-                            </div>
+                                <p> Membantu Pembuatan design Banner dalam kegiatan Ikamala Jember</div>
                         </div>
                     </div>
                     <!-- End details for portfolio project 6 -->
@@ -375,8 +368,7 @@
                                     <div>
                                         <span></span></div>
                                 </div>
-                                <p>Always continue the climb. It is possible for you to do whatever you choose, if you first get to know who you are and are willing to work with a power that is greater than ourselves to do it.</p>
-                            </div>
+                                <p>Aplikasi Kasir dan Inventori Toko Alat-alat Peternakan PrimaPS untuk membantu memudahkan alur jual beli toko lebih cepat dan efisien </div>
                         </div>
                     </div>
                     <!-- End details for portfolio project 7 -->
@@ -388,28 +380,27 @@
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>Webste for Some Client</h3>
+                                    <h3>Aplikasi Sewa Alat Tani</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Client</span>Some Client Name</div>
+                                        <span>Client</span>Mitra Pertanian Banyuwangi</div>
                                     <div>
-                                        <span>Date</span>July 2013</div>
+                                        <span>Date</span>November 2019</div>
                                     <div>
                                         <span>Skills</span>HTML5, CSS3, JavaScript</div>
                                     <div>
-                                        <span>Link</span>http://examplecomp.com</div>
+                                        </div>
                                 </div>
-                                <p>What if you gave someone a gift, and they neglected to thank you for it - would you be likely to give them another? Life is the same way. In order to attract more of the blessings that life has to offer, you must truly appreciate what you already have.</p>
-                            </div>
+                                <p> Membantu proses pembuatan aplikasi android sewa alat tani secara online pada Mitra Pertanian Banyuwangi </div>
                         </div>
                     </div>
                     <!-- End details for portfolio project 8 -->
                     <!-- Start details for portfolio project 9 -->
-                    <div id="slidingDiv8" class="toggleDiv row-fluid single-project">
+                    <!-- <div id="slidingDiv8" class="toggleDiv row-fluid single-project">
                         <div class="span6">
                             <img src="images/Portfolio09.png" alt="project 9">
                         </div>
@@ -434,7 +425,7 @@
                                 <p>I learned that we can do anything, but we can't do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.</p>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- End details for portfolio project 9 gambar depan -->
                     <!-- Start details for portfolio project 10 -->
                     <div id="slidingDiv8" class="toggleDiv row-fluid single-project">
@@ -478,23 +469,23 @@
                         </li>
                         <li class="span4 mix photo">
                             <div class="thumbnail">
-                                <img src="images/Portfolio02.png" alt="project 2">
+                                <img src="images/jaring.jpeg" alt="project 2">
                                 <a href="#single-project" class="show_hide more" rel="#slidingDiv1">
                                     <i class="icon-plus"></i>
                                 </a>
-                                <h3>Thumbnail label</h3>
-                                <p>Thumbnail caption...</p>
+                                <h3>Networking</h3>
+                                <p>Membuat Jaringan Komputer</p>
                                 <div class="mask"></div>
                             </div>
                         </li>
                         <li class="span4 mix identity">
                             <div class="thumbnail">
-                                <img src="images/Portfolio03.png" alt="project 3">
+                                <img src="images/brosur.png" alt="project 3">
                                 <a href="#single-project" class="more show_hide" rel="#slidingDiv2">
                                     <i class="icon-plus"></i>
                                 </a>
-                                <h3>Thumbnail label</h3>
-                                <p>Thumbnail caption...</p>
+                                <h3>Pembuatan Brosur</h3>
+                                <p>Mahasiswa Peternakan Polije</p>
                                 <div class="mask"></div>
                             </div>
                         </li>
@@ -509,7 +500,7 @@
                                 <div class="mask"></div>
                             </div>
                         </li>
-                        <li class="span4 mix photo">
+                        <!-- <li class="span4 mix photo">
                             <div class="thumbnail">
                                 <img src="images/Portfolio05.png" alt="project 5">
                                 <a href="#single-project" class="show_hide more" rel="#slidingDiv4">
@@ -519,15 +510,15 @@
                                 <p>Thumbnail caption...</p>
                                 <div class="mask"></div>
                             </div>
-                        </li>
+                        </li> -->
                         <li class="span4 mix identity">
                             <div class="thumbnail">
-                                <img src="images/Portfolio06.png" alt="project 6">
+                                <img src="images/bannerjelas.png" alt="project 6">
                                 <a href="#single-project" class="show_hide more" rel="#slidingDiv5">
                                     <i class="icon-plus"></i>
                                 </a>
-                                <h3>Thumbnail label</h3>
-                                <p>Thumbnail caption...</p>
+                                <h3>Pembuatan Baner</h3>
+                                <p>Ikamala (Ikatan Mahasiswa Lamongan Jember)</p>
                                 <div class="mask"></div>
                             </div>
                         </li>
@@ -548,12 +539,12 @@
                                     <a href="#single-project" class="show_hide more" rel="#slidingDiv7">
                                         <i class="icon-plus"></i>
                                     </a>
-                                    <h3>Thumbnail label</h3>
-                                    <p>Thumbnail caption...</p>
+                                    <h3>Aplikasi Sewa Alat Tani</h3>
+                                    <p>Mitra Pertanian Banyuwangi</p>
                                     <div class="mask"></div>
                                 </div>
                             </li>
-                        <li class="span4 mix photo">
+                        <!-- <li class="span4 mix photo">
                             <div class="thumbnail">
                                 <img src="images/Portfolio09.png" alt="project 9">
                                 <a href="#single-project" class="show_hide more" rel="#slidingDiv8">
@@ -563,7 +554,7 @@
                                 <p>Thumbnail caption...</p>
                                 <div class="mask"></div>
                             </div>
-                        </li>
+                        </li> -->
                         
                     </ul>
                 </div>
@@ -774,17 +765,17 @@
                     <ul class="row client-slider" id="clint-slider">
                         <li>
                             <a href="">
-                                <img src="images/clients/ClientLogo01.png" alt="client logo 1">
+                                <img src="images/clients/smkjember.png" alt="client logo 1">
                             </a>
                         </li>
                         <li>
                             <a href="">
-                                <img src="images/clients/ClientLogo02.png" alt="client logo 2">
+                                <img src="images/clients/poltek.png" alt="client logo 2">
                             </a>
                         </li>
                         <li>
                             <a href="">
-                                <img src="images/clients/ClientLogo03.png" alt="client logo 3">
+                                <img src="images/clients/libra.jpg" alt="client logo 3">
                             </a>
                         </li>
                         <li>
@@ -891,53 +882,16 @@
                     <div class="title">
                         <h1>Contact Us</h1>
                  
-                    </div>
-                </div>
-                <!-- <div class="map-wrapper">
-                    <div class="map-canvas" id="map-canvas">Loading map...</div>
-                    <div class="container">
-                        <div class="row-fluid">
-                            <div class="span5 contact-form centered">
-                                <h3>Say Hello</h3>
-                                <div id="successSend" class="alert alert-success invisible">
-                                    <strong>Well done!</strong>Your message has been sent.</div>
-                                <div id="errorSend" class="alert alert-error invisible">There was an error.</div>
-                                <form action="php/kirim.php" id="contact-form" action="php/mail.php">
-                                    <div class="control-group">
-                                        <div class="controls">
-                                            <input class="span12" type="text" id="nama" name="nama" placeholder="* Your name..." />
-                                            <div class="error left-align" id="err-name">Please enter name.</div>
-                                        </div>
-                                    </div>
-                                    <div class="control-group">
-                                        <div class="controls">
-                                            <input class="span12" type="email" name="email" id="email" placeholder="* Your email..." />
-                                            <div class="error left-align" id="err-email">Please enter valid email adress.</div>
-                                        </div>
-                                    </div>
-                                    <div class="control-group">
-                                        <div class="controls">
-                                            <textarea class="span12" name="pesan" id="pesan" placeholder="* Comments..."></textarea>
-                                            <div class="error left-align" id="err-comment">Please enter your comment.</div>
-                                        </div>
-                                    </div>
-                                    <div class="control-group">
-                                        <div class="controls">
-                                            <button type="submit" name="kirim" id="" class="message-btn">Send message</button>
-                                        </div>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
-                <div class="container">
-                    <div class="span9 center contact-info">
-                        <p>Jl. Melati V Jember Kidul</p>
+           
+                    
+                        <br>
                         <p class="info-mail">staydevjember@gmail.com</p>
-                        <p>082245630061 Yusuf</p>
-                        <p>082266508164 Anggi</p>
-                       
+                        <br>
+                        <font face="DaunPenh" color="black">Jl. Melati V Jember Kidul</font>
+                        <br><br>
+                        <font face="DaunPenh" color="black">082245630061 "Yusuf"</font><br>
+                        <font face="DaunPenh" color="black">082266508164 "Anggi"</font>
+                        
                     </div>
                 </div>
             </div>
