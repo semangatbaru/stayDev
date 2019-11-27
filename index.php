@@ -778,7 +778,7 @@
                                 <img src="images/clients/libra.jpg" alt="client logo 3">
                             </a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <a href="">
                                 <img src="images/clients/ClientLogo04.png" alt="client logo 4">
                             </a>
@@ -797,7 +797,7 @@
                             <a href="">
                                 <img src="images/clients/ClientLogo04.png" alt="client logo 7">
                             </a>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
             </div>
@@ -889,7 +889,7 @@
                         <br>
                         <font face="DaunPenh" color="black">Jl. Melati V Jember Kidul</font>
                         <br><br>
-                        <font face="DaunPenh" color="black">082245630061 "Yusuf"</font><br>
+                        <font face="DaunPenh" color="black">082245630061 "Yusuf"</font><br><br>
                         <font face="DaunPenh" color="black">082266508164 "Anggi"</font>
                         
                     </div>
